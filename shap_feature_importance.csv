@@ -1,0 +1,10 @@
+Feature,Mean_ABS_SHAP
+Recency,0.848966
+UniqueProducts,0.210506
+Monetary,0.175195
+AverageDaysBetweenPurchases,0.171628
+EngagementScore,0.170493
+AverageBasketSize,0.144990
+Frequency,0.081873
+ActiveMonths,0.078200
+PurchaseFrequencyTrend,0.050554
