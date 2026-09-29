@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+XGBoost,0.7163,0.7258,0.8018,0.7619,0.7787
+ANN,0.7327,0.7356,0.8241,0.7773,0.7818
