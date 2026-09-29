@@ -24,4 +24,4 @@ st.subheader("🧪 Final Test Results")
 test_data = pd.read_csv("final_test_results.csv")
 st.dataframe(test_data, use_container_width=True)
 
-st.sub
+st.dataframe(test_data, use_container_width=True)
